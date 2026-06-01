@@ -1,4 +1,4 @@
 # Changelog
-- Sprites are now from the scribble-platformer asset pack
+- Sprites are now from the scribble-platformer asset pack by Kenny: https://kenney.nl/assets/scribble-platformer
 - Added 5 gem collectables using a prefab that are initialized with a spawner. Gems are counted using the GameManager script. All 5 gems are required to complete the game.
 - Reaching the flag now freezes time and shows a victory text.
